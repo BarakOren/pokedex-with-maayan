@@ -1,0 +1,12 @@
+.pokemons-container {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.pokemon {
+    list-style-type: none;
+    width: 30%;
+    border: 1px solid black;
+}
